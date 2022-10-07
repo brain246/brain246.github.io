@@ -5,7 +5,7 @@ platforms:
   -
     type: Linkedin
     icon: "fab fa-linkedin"
-   link: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
+    link: "https://www.linkedin.com/sharing/share-offsite/?url=URL"
   -
     type: Twitter
     icon: "fab fa-twitter"
@@ -14,7 +14,6 @@ platforms:
     type: Facebook
     icon: "fab fa-facebook-square"
     link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
-
 
   # Uncomment below if you need to.
   # -
