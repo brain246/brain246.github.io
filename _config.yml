@@ -41,6 +41,7 @@ social:
   email: thomas@totter.pw             # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - <thomas@totter.pw>
     - https://www.linkedin.com/in/thomas-totter      # change to your twitter homepage
     - https://github.com/brain246      # change to your github homepage
 
@@ -77,7 +78,7 @@ theme_mode: dark  # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: 
 
 # boolean type, the global switch for ToC in posts.
 toc: true
