@@ -41,9 +41,10 @@ social:
   email: thomas@totter.pw             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - <thomas@totter.pw>
+    - emailto:thomas@totter.pw
     - https://www.linkedin.com/in/thomas-totter      # change to your twitter homepage
     - https://github.com/brain246      # change to your github homepage
+    - https://github.totter.pw 
 
 google_site_verification: "RJjpB0yDHKU1vqmffYMRd3M8h3TbG6X0M5UiOcDGIJA"
 
