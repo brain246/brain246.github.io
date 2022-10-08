@@ -3,6 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
+[![Build and deploy](https://github.com/brain246/brain246.github.io/actions/workflows/pages-deploy.yml/badge.svg?branch=main)](https://github.com/brain246/brain246.github.io/actions/workflows/pages-deploy.yml)
 BrainCat
 <img src="_images/octocat-1665201955792.png" alt="drawing" width="400"/>
               
