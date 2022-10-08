@@ -3,6 +3,6 @@
 icon: fas fa-info-circle
 order: 4
 ---
-![BrainCat](/_images/octocat-1665201955792.png "octocat-1665201955792.png")
+![BrainCat](/_images//octocat-1665201955792.png "octocat-1665201955792.png")
               
               
