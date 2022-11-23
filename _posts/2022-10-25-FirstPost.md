@@ -5,9 +5,8 @@ categories: [Blog, Meta, Powershell, Azure]
 tags: [powershell, github-pages, blog, powershell-gallery, azure]
 ---
 
-# FIRST ...
-
-... blog post here at my Github page :champagne:
+## FIRST...
+...blog post here at my new Github page :champagne:
 
 <sub>_(this post is a test run mainly)_</sub>
 
