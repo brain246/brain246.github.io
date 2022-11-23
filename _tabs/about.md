@@ -10,10 +10,10 @@ My name is Thomas and i am currently occupied as an Azure data engineer using an
 - Synapse (Serverless, Dedicated, Spark, Data Explorer, Pipelines, ...)
 - Data Factory
 - Databricks
-- SQL-Server(s) of any kind 
+- SQL-Server(s) of any kind
 - Datalake(s)
 
-I am a fan of (data) lakehouse architecture inlcuding delta-tables and anything related to that.
+I am a fan of (data) lakehouse architecture including delta-tables and anything related.
 
 Since one of my main treats is being lazy (and hating repetitive work), i naturally developed an interest in DevOps/Automation. To make up for lack of concentration (treat #2), i am not touching any code unless it is version controlled. That includes cloud infrastructure, database schemas as well as any kind of scripts.
 
@@ -51,14 +51,14 @@ You can find and/or contact me here:
 Ok, i have to admit i stole this from [automattic](https://automattic.com), but i can strongly identify myself with those words.
 
 [THE AUTOMATTIC CREED](https://automattic.com/creed/)
-- I will never stop learning. 
-- I won’t just work on things that are assigned to me. 
-- I know there’s no such thing as a status quo. 
-- I will build our business sustainably through passionate and loyal customers. 
-- I will never pass up an opportunity to help out a colleague, and I’ll remember the days before I knew everything. 
-- I am more motivated by impact than money, and I know that Open Source is one of the most powerful ideas of our generation. 
+- I will never stop learning.
+- I won’t just work on things that are assigned to me.
+- I know there’s no such thing as a status quo.
+- I will build our business sustainably through passionate and loyal customers.
+- I will never pass up an opportunity to help out a colleague, and I’ll remember the days before I knew everything.
+- I am more motivated by impact than money, and I know that Open Source is one of the most powerful ideas of our generation.
 - I will communicate as much as possible, because it’s the oxygen of a distributed company.
-- I am in a marathon, not a sprint, and no matter how far away the goal is, the only way to get there is by putting one foot in front of another every day. 
+- I am in a marathon, not a sprint, and no matter how far away the goal is, the only way to get there is by putting one foot in front of another every day.
 - Given time, there is no problem that’s insurmountable.
 
 
