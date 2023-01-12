@@ -4,29 +4,34 @@ icon: fas fa-info-circle
 order: 4
 ---
 ## Me, myself and I
-Hi there and welcome to my blog![^1]
+Hi there and welcome to my secret hideout!
 
-My name is Thomas and i am currently occupied as an Azure data engineer using any/all  these nifty tools:
+I am Thomas and currently occupied as an (Azure) data engineer.
+Well, my _official_ job title these days is `BI Architect`, a title that only works on LinkedIn and maybe Tinder. Techies (inlduding me) don't usually know what that even means and even if they think they do, those  ideas are wrong in 73.29% of cases[^perc].
+
+But regardless of titles, the most used tools and cloud services as of recent are:
 - Synapse (Serverless, Dedicated, Spark, Data Explorer, Pipelines, ...)
 - Data Factory
 - Databricks
 - SQL-Server(s) of any kind
-- Datalake(s)
+- Storage accounts / Datalake(s)
 
-I am a fan of (data) lakehouse architecture including delta-tables and anything related.
+I am a fan of lakehouse architectures including their key comonents like delta-(live)-tables, delta-sharing, the unity catalog and Datbricks/Synapse shared meta data (tables).
 
-Since one of my main treats is being lazy (and hating repetitive work), i naturally developed an interest in DevOps/Automation. To make up for lack of concentration (treat #2), i am not touching any code unless it is version controlled. That includes cloud infrastructure, database schemas as well as any kind of scripts.
+Since my main treat is being lazy and agrwiing hatred for repetitive tasks, i developed a big interest in DevOps & Automation. To make up for the lack of concentration (and missing sleep sleep), i am usually not touching any code, unless it is version controlled. That includes cloud infrastructure, database schemas and any kind of scripts & notebooks.
 
-This led to my little 'side-kick' implementing CI/CD/DevOps workflows in:
+So the next big "hobby" turned out to be: 
 - Azure DevOps (Repos, Boards, Pipelines, Artifacts, ...)
-- Atlassian Cloud (Jira, Bitbucket, Confluence, ...)
+- Atlassian Cloud servises (Jira, Bitbucket, Confluence, ...)
 - Github (Actions, Issues, Projects, ...)
 
-Some would say that Git isn't an interest of mine, but more of a religion to me :hindu_temple:
+Some might say that my increasing affection for Git is starting to get inapporriate, but i see it more as religious experience n :hindu_temple:
 
-Since automation requires some scripting, i am constantly working on my Powershell, Bash (Fish) and other scripting skills. In the past i also pretended to know a bit of Lua, Tcl/Tk, VBA, Javascript, Actionscript and a few others i can't remember anymore.
+Since automation requires some sort of scripting, i am constantly working on my Powershell, Bash/Fish and Ubuntu scripting skills. 
 
-Regarding querying and transformation of data i am most fluent in (T-)SQL, but also working on Python (Pyspark for that matter), Scala and other languages/dialects like Databricks-SQL, KQL (Kusto), etc.
+In the past i also pretended to know a bit of Lua, Tcl/Tk, VBA, Javascript, Actionscript and a few other "scripting" languages which i can't remember anymore.
+
+Regarding transformation of data, i am most fluent in (T-)SQL, but also working on Python (Pyspark for that matter), Scala and other languages/dialects like Databricks-SQL, KQL (Kusto), etc.
 
 ## The past
 Technologies and tools that i spent time on in my (professional) past:
@@ -36,7 +41,7 @@ Technologies and tools that i spent time on in my (professional) past:
 - CPM (Corporate Performance Management)
 - Financial Report Design & Implementation (IBCS)
 
-My educational background is a master's degree in "Management and International Business"[^2] (yikes) and 35+ years of being a self-taught computer nerd, starting with a Commodore 64 in 1986 :nerd_face:
+My educational background is a master's degree in "Management and International Business"[^2] (yikes) and 35+ years of being a self-taught computer nerd.
 
 ## Contact
 You can find and/or contact me here:
@@ -45,10 +50,12 @@ You can find and/or contact me here:
 - [Credly](https://www.credly.com/users/ttotter)
 - [Email](mailto:thomas@totter.pw)
 
-<sup>My current place of residence is Graz/Austria.</sup>
 
-## Creed
-Ok, i have to admit i stole this from [automattic](https://automattic.com), but i can strongly identify myself with those words.
+* ************************************************************
+# Creed
+# ************************************************************
+
+Ok, i have to admit i am quite the copycat and borrowed ~~@@holy bible borrowed~~  [automattic creed](https://automattic.com), but i can strongly identify myself with those words.
 
 [THE AUTOMATTIC CREED](https://automattic.com/creed/)
 - I will never stop learning.
@@ -65,3 +72,5 @@ Ok, i have to admit i stole this from [automattic](https://automattic.com), but 
 [^1]: powered by [Github Pages](https://pages.github.com/) and [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 
 [^2]: let's keep this a secret please...
+
+[^perc]: Recent studies found out, that percentage data used in random internet postings is wrong in 97.7% of cases and the remaining 5.8% are simply not true. 
