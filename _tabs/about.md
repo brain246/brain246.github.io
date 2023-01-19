@@ -3,53 +3,64 @@
 icon: fas fa-info-circle
 order: 4
 ---
-## Me, myself and I
-Hi there and welcome to my secret hideout[^1]!
 
-I am Thomas and currently occupied as an (Azure) data engineer using mostly these tools/services at the moment:
-- Synapse (Serverless, Dedicated, Spark, Data Explorer, Pipelines, ...)
-- Data Factory
+# Me, myself and I
+
+Hi there and welcome to my secret hideout[^blog] :wave:
+
+I am Thomas and currently occupied as an (Azure) data engineer at [Braincourt (soon to be Capgemini)](https://www.braincourt.com).
+
+## Current Interests
+
+Some of my main interests right now are:
+- Synapse (Serverless & dedicated SQL pools, Spark, Data Explorer aka Kusto, ...)
+- Data Pipelines (Synapse & Data Factory)
 - Databricks
-- SQL-Server(s) of any kind
-- Storage accounts / Datalake(s)
+- SQL-Servers (of any kind)
+- Datalake(s)
+- Streaming (data, not movies...)
+- Restful APIs & GraphQL
+- Cloud Infrastructure as Code (Terraform, Bicep)
 
-I am more and more becoming a fan of lakehouse architectures including their key key components like delta-(live)-tables, delta-sharing, unity catalog and Datbricks/Synapse shared meta data (tables).
+I am more and more becoming a fan of lakehouse architecture(s) and related topics like datalake(s), delta-tables, delta-live-tables (streaming), serverless and/or dedicated (sql) endpoints, sql/spark notebooks and anything specific to Synapse and/or Databricks: shared meta data, delta-sharing, unity catalog(s), etc. 
 
-Since one of my my main treats is being lazy and hating repetitive tasks, i developed a natural interest in DevOps & automation. To make up for my lack of concentration (and missing sleep), i am usually not touching any code, unless it is version controlled. That includes cloud infrastructure, database schemas and any kind of scripts & notebooks.
+Since one of my my main treats is being lazy in combination with a deep hatred for repetitive tasks, i developed a natural interest in DevOps & automation. To make up for the lack of concentration (and sleep...) on my part, i am usually not touching any code unless it is version controlled. That includes but is not limited to: cloud infrastructure (as code), database schemas, pipeline definitions, all kinds of scripts/notebooks and the grocery list for my next shopping tour.
 
-So the next big topics turned out to be: 
-- Azure DevOps (Repos, Boards, Pipelines, Artifacts, ...)
-- Atlassian Cloud services (Jira, Bitbucket, Confluence, ...) and their integration
-- Github (Actions, Issues, Projects, ...)
-- Version control (Git) in general
+As a result of the above, the next big topic, that attracted my interest and has since then become a part of my professional portfolio, is the implementation of development & deployment workflows in data (warehousing) projects. Some of the tools & services that i have been utilizing in that regard are: 
+- Azure DevOps: Repos, Boards, Pipelines, Artifacts
+- Atlassian Cloud: Jira, Bitbucket, Confluence, Bamboo
+- Github: Repos, Actions, Issues, Projects, Codespaces
+- And the most important of all: Git[^git]
 
-Since automation requires some kind of scripting, i am constantly working on my Powershell, Bash/Fish and Ubuntu scripting skills. 
+Since DevOps/automation usually requires some sort of scripting, i am constantly working on improving my Powershell, Bash/Unix/Fish and other (relevant) scripting skills. 
 
-In the past i also pretended to know a bit of Lua, Tcl/Tk, VBA, Javascript, Actionscript and a few others, which i can't remember anymore.
+In the past i also pretended to know a bit of Lua, Tcl/Tk, VBA, Javascript, Actionscript and probably a few others that i can't remember right now. My motto in that regard is: If it's a scripting language, i can deal with it (sooner or later). 
 
-Regarding transformation of data, i am most fluent in (T-)SQL, but also working on Python (Pyspark for that matter), Scala and other languages/dialects like Databricks-SQL, KQL (Kusto), etc.
+Regarding data manipulation/transformation i am most experienced (by far) in T-SQL due to a strong SQL Server background.Although these days i mainly try to improve my skills in Python (Pyspark), Scala and other data-languages (Databricks-SQL, KQL/Kusto, ...).
 
-## The past
-Technologies and tools that i spent time on in my (professional) past:
-- SQL-Server on-Premise (SSIS, SSAS, SSRS)
-- SAP ERP (key user in FI/CO), BW (Datamodeling, Processchains, ...), Business Objects (Analysis for Office, Lumira Designer, Bex, ...)
-- IBM Planning Analytics (TM1) and PALO
-- CPM (Corporate Performance Management)
-- Financial Report Design & Implementation (IBCS)
+I was kinda glad about having a little background in html&web-development when i realized, that providing (or at least using) REST-APIs belongs to the basic data engineer toolset these days. OAUTH & other authentication flows weren't my favorite thing at first, but like in real life relationships: some things just need time to grow :grin:
 
-My educational background is a master's degree in "Management and International Business"[^2] (yikes) and 35+ years of being a self-taught computer nerd.
+## The Past
 
-## Contact
-You can find and/or contact me here:
-- [LinkedIn](https://www.linkedin.com/in/thomas-totter/)
-- [Github](https://github.com/brain246)
-- [Credly](https://www.credly.com/users/ttotter)
-- [Email](mailto:thomas@totter.pw)
+Technologies & topics that i spent time on in my professional past:
+- SQL-Server on-Premise: Relational-DB, SSIS, SSAS, SSRS.
+- SAP BW (Datamodeling, Processchains, Bex Queries, etc.), Business Objects (Analysis for Office, Lumira Designer, BI/BO Platform), ERP/R3 (mainly FI/CO/HCM/COPA), SEM-BCS (used for monthly management consolidation).
+- IBM Planning Analytics (aka TM1), Palo/Jedox and other **real** OLAP engines & databases including all sorts of Excel integrations that usually come along wih that.
+- Corporate Performance Management (CPM): Main focus being financial, sales & product planning.
+- Financial Reporting: Design, (notation) concept (IBCS) & implementation of financial reports in various frontends and supportive addins (like Graphomate).
+- As inhouse consultant i also spent time improving the collaboration toolset in my department (Teams & Addins, Sharepoint on-Premise/Online, Planner/ToDo, OneDrive, etc.).
+- Monthly business consolidation and group reporting of over 100 legal entities.
 
+## Education & Certifications
+
+My educational background is a master's degree in "Management and International Business"[^mib] (yikes) and 35+ years of being a self-taught computer nerd. If you care about certifications (personally i don't) you can check my [Credly](https://www.credly.com/users/ttotter) page and might find out that (besides the obvious data engineering stuff) i am also not a complete stranger to agile methods. 
+
+My opinion towards certifications is best explained by this picture (borrowed from the great Martin Fowler[^mf]):
+![](/assets/img/certifications.png)
 
 ## Creed
 
-Ok, i have to admit i am quite the copycat and borrowed the following from [here](https://automattic.com), but i can strongly identify myself with those words.
+I have to admit that i am quite the copycat and borrowed the following creed from [Automattic](https://automattic.com), but i haven't found any text yet, which i can identify myself more with than this:
 
 [THE AUTOMATTIC CREED](https://automattic.com/creed/)
 - I will never stop learning.
@@ -62,7 +73,21 @@ Ok, i have to admit i am quite the copycat and borrowed the following from [here
 - I am in a marathon, not a sprint, and no matter how far away the goal is, the only way to get there is by putting one foot in front of another every day.
 - Given time, there is no problem that’s insurmountable.
 
+And my personal addition:
+- If i can't fix it, it was probably never broken in the first place :grin:
 
-[^1]: powered by [Github Pages](https://pages.github.com/) and [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+## Contact
 
-[^2]: let's keep this a secret please...
+You can find, stalk or contact me here as well:
+- [LinkedIn](https://www.linkedin.com/in/thomas-totter/)
+- [Github](https://github.com/brain246)
+- [Credly](https://www.credly.com/users/ttotter)
+- [Email](mailto:thomas@totter.pw)
+
+[^blog]: Powered by [Github Pages](https://pages.github.com/) and [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+
+[^git]: All praise be to the lord (aka [Linus Torvalds](https://github.com/torvalds)). Watch [this](https://youtu.be/4XpnKHJAok8) if you want to learn something about presenting software (and insulting your audience in the process).
+
+[^mib]: Let's keep this a secret, please?
+
+[^mf]: One of my all-time favorite web-resources: [https://martinfowler.com](https://martinfowler.com)

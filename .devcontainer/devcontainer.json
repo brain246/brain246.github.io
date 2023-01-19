@@ -28,7 +28,9 @@
         "GitHub.vscode-pull-request-github",
         "Dedsec727.jekyll-run",
         "esbenp.prettier-vscode",
-        "Cacher.cacher-vscode"
+        "Cacher.cacher-vscode",
+        "mhutchie.git-graph",
+        "foxundermoon.shell-format"
       ]
     }
   },
