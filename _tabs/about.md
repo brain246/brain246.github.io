@@ -22,11 +22,11 @@ Some of my main interests right now are:
 - Restful APIs & GraphQL
 - Cloud Infrastructure as Code (Terraform, Bicep)
 
-I am more and more becoming a fan of lakehouse architecture(s) and related topics like datalake(s), delta-tables, delta-live-tables (streaming), serverless and/or dedicated (sql) endpoints, sql/spark notebooks and anything specific to Synapse and/or Databricks: shared meta data, delta-sharing, unity catalog(s), etc. 
+I am more and more becoming a fan of lakehouse architecture(s) and related topics like delta-lakes, delta-live-tables, pyspark notebooks and anything specific to Synapse and/or Databricks: shared meta data, delta-sharing, unity catalog, etc. 
 
 Since one of my my main treats is being lazy in combination with a deep hatred for repetitive tasks, i developed a natural interest in DevOps & automation. To make up for the lack of concentration (and sleep...) on my part, i am usually not touching any code unless it is version controlled. That includes but is not limited to: cloud infrastructure (as code), database schemas, pipeline definitions, all kinds of scripts/notebooks and the grocery list for my next shopping tour.
 
-As a result of the above, the next big topic, that attracted my interest and has since then become a part of my professional portfolio, is the implementation of development & deployment workflows in data (warehousing) projects. Some of the tools & services that i have been utilizing in that regard are: 
+As a result of the above, the next topic, that attracted my interest and has since then become a part of my professional portfolio, is the implementation of development & deployment workflows in data projects. Some of the tools & services that i have been utilizing in that regard are: 
 - Azure DevOps: Repos, Boards, Pipelines, Artifacts
 - Atlassian Cloud: Jira, Bitbucket, Confluence, Bamboo
 - Github: Repos, Actions, Issues, Projects, Codespaces
