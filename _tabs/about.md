@@ -30,7 +30,7 @@ After 18 years of data warehousing, i am now pushing lakehouse architectures and
 
 Since one of my main personal treats is being lazy, in combination with a deep hatred for repetitive tasks, i developed a natural interest in DevOps & automation. To make up for lack of concentration (and sleep...) on my part, i am usually not touching any code unless it is version controlled. That includes but is not limited to: cloud infrastructure (as code), database schemas, pipeline definitions, all kinds of scripts/notebooks and the grocery list for my next shopping tour.
 
-As a result of the above, a topics that attracted my interest (and since then became part of my professional portfolio) is the implementation/optimization of development & deployment workflows in data projects. Some of the tools/services that i have been using in that regard are:
+As a result of the above, a topic that attracted my interest (and since then also became part of my professional portfolio) is the implementation/optimization of development & deployment workflows in data projects. Some of the tools/services that i have been using in that regard are:
 
 - Azure DevOps: Repos, Boards, Pipelines, Artifacts
 - Atlassian Cloud: Jira, Bitbucket, Confluence, Bamboo
