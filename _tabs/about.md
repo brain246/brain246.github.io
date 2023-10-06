@@ -95,7 +95,7 @@ You can find, stalk, or contact me here:
 - [Github](https://github.com/brain246)
 - [Credly](https://www.credly.com/users/ttotter)
 - [MS-Learn](https://learn.microsoft.com/en-us/users/thomastotter-5644/)
-- <a rel="me" href="https://mastodon.social/@brain246">Mastodon</a>
+- [Mastodon](https://mastodon.social/@brain246)[^mast]
 - [Email](mailto:thomas@totter.pw)
 
 [^blog]: Powered by [Github Pages](https://pages.github.com/) and [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
@@ -111,3 +111,6 @@ You can find, stalk, or contact me here:
 [^assig]: Greetings go out at to all my former POs, project leads and bosses :wave:
 
 [^corny]: Ok this one sounds a bit corny considering i am mainly working with Microsoft products and services. But it's the idea that counts!
+
+[^mast]: <a rel="me" href="https://mastodon.social/@brain246">Mastodon</a> forced me to place this link here :sad:
+```
