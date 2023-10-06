@@ -64,6 +64,7 @@ Some technologies, software providers and topics that i spent time with in my (p
 My educational background is a master's degree in "Management and International Business"[^mib] (yikes) and 35+ years of being a self-taught computer nerd. If you care about certifications (personally i don't), you can check my [Credly](https://www.credly.com/users/ttotter) or [MS-Learn](https://learn.microsoft.com/en-us/users/thomastotter-5644/) pages and might find out that (besides the obvious data engineering certs) i am also not a complete stranger to agile methods.
 
 However, my opinion towards certifications is best explained by this picture (borrowed from the great Martin Fowler[^mf]):
+
 ![certification matrix](/assets/img/certifications.png)
 
 ## Creed
@@ -94,7 +95,7 @@ You can find, stalk, or contact me here:
 - [Github](https://github.com/brain246)
 - [Credly](https://www.credly.com/users/ttotter)
 - [MS-Learn](https://learn.microsoft.com/en-us/users/thomastotter-5644/)
-- [Mastodon](https://mastodon.social/@brain246)
+- <a rel="me" href="https://mastodon.social/@brain246">Mastodon</a>
 - [Email](mailto:thomas@totter.pw)
 
 [^blog]: Powered by [Github Pages](https://pages.github.com/) and [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
