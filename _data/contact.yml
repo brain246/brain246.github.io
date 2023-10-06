@@ -12,15 +12,15 @@
   type: mastodon.social
   icon: 'fab fa-mastodon'
   url:  'https://mastodon.social/@brain246'
--
-  type: mastodon.medium
-  icon: 'fab fa-mastodon'
-  url:  'https://me.dm/@brain246'
--
-  type: email
-  icon: 'fas fa-envelope'
-  noblank: truE 
 # -
+#   type: mastodon.medium
+#   icon: 'fab fa-mastodon'
+#   url:  'https://me.dm/@brain246'
+# -
+#   type: email
+#   icon: 'fas fa-envelope'
+#   noblank: truE 
+#-
 #   type: rss
 #   icon: 'fas fa-rss'
 #   noblank: true
