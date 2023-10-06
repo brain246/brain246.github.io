@@ -41,9 +41,9 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Thomas Totter
-  email: thomas@totter.pw            # change to your email address
+  email: thomas@totter.pw
   links:
-    - https://github.totter.pw       # change to your github homepage
+    - https://github.totter.pw
 
 google_site_verification: "RJjpB0yDHKU1vqmffYMRd3M8h3TbG6X0M5UiOcDGIJA"
 
