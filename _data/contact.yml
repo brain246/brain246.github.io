@@ -12,18 +12,18 @@
   type: mastodon.social
   icon: 'fab fa-mastodon'
   url:  'https://mastodon.social/@brain246'
+-
+  type: email
+  icon: 'fas fa-envelope'
+  noblank: truE 
+-
+  type: rss
+  icon: 'fas fa-rss'
+  noblank: true
 # -
 #   type: mastodon.medium
 #   icon: 'fab fa-mastodon'
 #   url:  'https://me.dm/@brain246'
-# -
-#   type: email
-#   icon: 'fas fa-envelope'
-#   noblank: truE 
-#-
-#   type: rss
-#   icon: 'fas fa-rss'
-#   noblank: true
 
 
 # Uncomment and complete the url below to enable more contact options
