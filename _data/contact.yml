@@ -20,10 +20,10 @@
   type: email
   icon: 'fas fa-envelope'
   noblank: truE 
--
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
+# -
+#   type: rss
+#   icon: 'fas fa-rss'
+#   noblank: true
 
 
 # Uncomment and complete the url below to enable more contact options
