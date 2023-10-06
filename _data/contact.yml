@@ -9,9 +9,13 @@
   icon: 'fab fa-linkedin'
   url:  'https://linkedin.totter.pw'
 -
-  type: mastodon
+  type: mastodon.social
   icon: 'fab fa-mastodon'
   url:  'https://mastodon.social/@brain246'
+-
+  type: mastodon.medium
+  icon: 'fab fa-mastodon'
+  url:  'https://me.dm/@brain246'
 -
   type: email
   icon: 'fas fa-envelope'
