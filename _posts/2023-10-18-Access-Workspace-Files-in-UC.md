@@ -74,8 +74,11 @@ w.workspace.import_(content=base64.b64encode(("This is the file's content").enco
 )
 ```
 
+List files in DBFS:
 ![List DBFS](/assets/img/dbfs.png)
 
+List files in User/Workspace:
 ![List User Files](/assets/img/user.png)
 
+Show contents of a yaml file saved in user's repository folder:
 ![Download File](/assets/img/yaml.png)
