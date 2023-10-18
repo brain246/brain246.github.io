@@ -1,5 +1,5 @@
 ---
-title: Accessing Workspace Files with Shared (UC-enabled) Clusters in Databricks
+title: Accessing Workspace Files with Shared Clusters (UC) in Databricks
 date: 2023-10-18 16:30:00 +0100
 categories: [Databricks]
 tags: [databricks, spark, unity-catalog, ]
@@ -11,7 +11,7 @@ If you are trying to access workspace files or files located in a repository fol
 
 `java.lang.SecurityException: User does not have permission SELECT on any file.`
 
-The underlying problem has to do with the [restrictions](<https://learn.microsoft.com/en-us/azure/databricks/files/workspace-interact>) you are facing when using shared clusters in Databricks.
+The underlying problem has to do with the [restrictions](https://docs.databricks.com/en/clusters/configure.html#shared-access-mode-limitations) you are facing when using shared clusters in Databricks.
 
 If you want to access Unity Catalog with a cluster the only two options regarding `Access Mode` currently are `Shared` or `Single User` though. If the latter is out of the question as it often happens inprojects that i am participating in, then you will not be able to access workspace files from the only cluster option that is left.
 
