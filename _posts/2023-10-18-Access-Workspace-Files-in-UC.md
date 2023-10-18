@@ -5,7 +5,7 @@ categories: [Databricks]
 tags: [databricks, spark, unity-catalog, ]
 ---
 
-## The issue
+## The Issue
 
 If you are trying to access workspace files or files located in a repository folder (as described [here](https://learn.microsoft.com/en-us/azure/databricks/files/workspace-interact)) from a shared cluster in Databricks, you might run into the following error:
 
@@ -15,7 +15,7 @@ The underlying problem has to do with the [restrictions](https://docs.databricks
 
 If you want to access Unity Catalog with a cluster the only two options regarding `Access Mode` currently are `Shared` or `Single User` though. If the latter is out of the question as it often happens in projects that i am participating in, then you will not be able to access workspace files from the only cluster option that is left.
 
-## The solution
+## The Solution
 
 One way of dealing with this problem is to use [Databricks Python SDK](https://databricks-sdk-py.readthedocs.io/en/latest/).
 
@@ -62,7 +62,7 @@ for file_ in w.workspace.list("/Repos/<username>/<repo>"):
 for line in w.workspace.download(path="/Repos/<username>/<repo>/.../catalog.yml"):
     print(line.decode("UTF-8").replace("\n", ""))
 
-# Upload a (text) file to repos
+# Upload a (text) file to user repository folder
 import base64
 from databricks.sdk.service import workspace
 
@@ -73,6 +73,8 @@ w.workspace.import_(content=base64.b64encode(("This is the file's content").enco
     path=path
 )
 ```
+
+### Some Example Screenshots
 
 List files in DBFS:
 ![List DBFS](/assets/img/dbfs.png)
