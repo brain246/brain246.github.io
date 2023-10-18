@@ -1,6 +1,6 @@
 ---
 title: Accessing Workspace Files with Shared (UC-enabled) Clusters in Databricks
-date: 2023-10-18 17:30:00 +0100
+date: 2023-10-18 16:30:00 +0100
 categories: [Databricks]
 tags: [databricks, spark, unity-catalog, ]
 ---
