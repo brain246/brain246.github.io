@@ -55,7 +55,7 @@ Open the file found at the returned location plus the file we created before in 
 
 Now we just need to tell `gRPC` where our custom certificate file is located. The easiest approach is to use the environment variable `GRPC_DEFAULT_SSL_ROOTS_FILE_PATH`. You can set that environment variable either in VS-Code (for a specific project/terminal) or - the method i prefer - in your user's Windows environment variables[^3]:
 
-<img src="../assets/img/ssl_grpc_env.png" width="65%"/><br/>
+<img src="/assets/img/ssl_grpc_env.png" width="65%"/><br/>
 _Hint: After setting new environment variables you need to restart all open terminals/shells to make the changes effective._
 
 ---
