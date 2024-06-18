@@ -12,7 +12,7 @@ I am Thomas and currently occupied as an (Azure) data engineer at [Capgemini Aus
 
 ## Hot Topics & Interests
 
-Not very surpsingly, my main focus is on all things data. More specifically, that currently means:
+Not very surprisingly, my main focus is on all things data. More specifically, that currently means:
 
 - Databricks, Spark & Delta
 - Delta Live Tables & Spark Structured Streaming
@@ -21,49 +21,49 @@ Not very surpsingly, my main focus is on all things data. More specifically, tha
 - Azure Data Factory
 - Cloud Infrastructure as Code (Terraform, Bicep)
 
-And not so currently, meaning in the recent past i had a lot of:
+And not so currently, meaning in the recent past, i saw a lot of:
 
 - Synapse (Serverless & Dedicated[^dedic])
-- SQL-Server Warehouses
+- SQL-Server Warehouse(s)
 - Restful APIs & GraphQL
 
-After 18 years of classical data warehousing, i finally got to dive into various (data-)lakes. And once in the lake(-house), there is no turning back, that's for sure.
+After 18 years of classical data warehousing, i finally got to dive into the data lake (-house), which i won't leave anytime soon it seems.
 
 Besides signing the [DataOps Manifesto](https://dataopsmanifesto.org/), i am also a supporter of the "treat data as a product" movement.
 
 ## Side-Shows
 
-Since one of my main treats is lazyness when it comes to repetitive tasks, i developed a natural interest in DevOps & automation. And due to constant lack of sleep, I usually don't touch any code, unless it's version controlled. That includes but is not limited to: cloud infrastructure (as code), database schemas, pipeline definitions, all kinds of scripts, notebooks and the grocery list for my next shopping tour.
+Since one of my main treats is laziness (when it comes to repetitive tasks), i developed a natural interest in DevOps & automation. And due to constant lack of sleep, I usually don't touch any code, unless it's version controlled. That includes but is not limited to: cloud infrastructure (as code), database schemas, pipeline definitions, all kinds of scripts, notebooks and the grocery list for my next shopping tour.
 
-As a result of the above, i somehow stumbled into the beautiful world of DevOps (although that name was not a thing back then). My personal project lifecycle these days often goes like this: Getting hired as data architect/engineer and then silently converting into the dedicated DevOps and Git guy. It was never my intention, but i think i got the DevOps Bingo card full now:
+As a result of the above, i somehow stumbled into the beautiful world of DevOps (although that name was not a thing back then). My personal project lifecycle these days often goes looks like this: Getting hired as an architect/data enginner at first, but then silently turning into the dedicated DevOps and Git guy. Although it was never my intention, i think i got the DevOps bingo card full now:
 
 - Azure DevOps (Repos, Boards, Pipelines, etc.)
 - The Atlassian(s): Bitbucket, Jira, Confluence (and even Bamboo...).
 - Github (my teenage love)
-- And lately also a lot of: Gitlab
-- And if artefact registries also count on that list: Cloudsmith (great tool by the way)
+- Gitlab
+- And if artefact registries also belong on this list: Cloudsmith
 
-However, there can be only one god. And for me that is and always will be: __Git__[^git]. After using it for almost a decade now, i still feel like i don't know half of it and am constantly amazed how limitless the possibilities of this genious piece of software really are.
+However, there can be only one god. And for me that is and always will be: __Git__[^git]. After using it for almost a decade, i still feel like i don't know half of it and am constantly amazed how limitless the possibilities of this genius piece of software really are.
 
 ## Scripting
 
-Since __DevOps and automation__ usually require some sort of scripting, i also found myself dealing with the usual (scripting) suspects: Powershell, Bash, Python (and for fun and good looks also: Fish).
+Since __DevOps and automation__ usually require some sort of scripting, i found myself dealing with the usual (scripting) suspects: Powershell, Bash, Python (and for fun and good looks also: Fish).
 
-Regarding __data manipulation & transformation__ i am most experienced in T-SQL, due to spending so many years implementing SQL warehouses. And for quite a while, writing data transformations in Python felt somehow "wrong" to me. But today there is no doubt about it in my mind: The added value that you get (for free) from the whole Python software engineering ecosystemn (formatting, linting, automated testing, packaging and so many more) cannot be missed out on. Implementing data projectss almost starts to feel like real software devleopment these days.
+Regarding __data manipulation & transformation__ i am most experienced in T-SQL, due to spending many years implementing SQL warehouses. Switching to Python felt a bit odd at first, but today there is no doubt it in my mind: The added value one gets (for free) from the whole Python software engineering eco-system (formatting, linting, automated testing, packaging, ...) cannot be missed out on. Implementing data projects in Python almost starts to feel like 'real' software development these days.
 
-And a life without notebooks might be possible, but makes abosulety no sense to me :smirk:.
+Also, a life without (Jupyter) notebooks might be possible, but makes absolutely no sense to me anymore :smirk:.
 
 ## Professional Past
 
-Way back in time, i also had to work a lot with (or in):
+Way back in time, i also worked a lot with (or in):
 
-- SQL-Server (on-Premise): Relational-DB, SSIS, SSAS, SSRS.
+- SQL-Server (on-Premise): Relational-DBs, SSIS, SSAS, SSRS.
 - SAP: BW (Datamodeling, Processchains, Bex Queries, etc.), Business Objects (Analysis for Office, Lumira Designer, BI/BO Platform), ERP/R3 (mainly FI/CO/HCM/COPA), SEM-BCS (management consolidation).
 - IBM Planning Analytics (aka TM1), Palo/Jedox and other _real_ OLAP engines & databases including all sorts of Excel integrations that usually come along with those.
-- Corporate Performance Management (CPM): Main focus being financial, sales, project and product planning & forecasting.
-- Financial Reporting: Implementation of financial reports for all kind of flavors and in different tools & frontends as well as supportive addins (like Graphomate). Also creation of notation concepts/standards for financial reporting (IBCS-like).
-- As an inhouse consultant, i also spent quite some time in improving the collaboration toolset and processes in the central Controlling department (40 people spread over various locations, countries and languages). Which basically means that i played around a lot with: Microsoft Teams (plus Addins/Apps), Sharepoint (on-premise and online), Planner/ToDo, OneDrive, O365, ...).
-- At the same time i also made some operational use of my educational/business background by conducting the monthly business consolidation (as well as providing financial reports) for over 100 legal entities in [Styria Media Group](https://www.styria.com).
+- Corporate Performance Management (CPM): Main focus was building financial, sales, project and product planning (& forecasting) solutions.
+- Financial Reporting: Implemented a lot of financial reports in various tools and different kind of backends, including notation concepts (IBCS-like).
+- As an inhouse consultant, i also spent quite some time in improving the collaboration toolset in a centralized Controlling department (40 people spread over various locations, countries and languages). Which basically means that i played around a lot with Microsoft Teams, Sharepoint (on-premise and online), Planner/ToDo, OneDrive, O365, etc.).
+- At the same time i also made some operational use of my educational/business background by conducting the monthly business consolidation (as well as providing financial reports) for over 100 legal entities in a media group.
 
 ## Education & Certifications
 
@@ -76,7 +76,7 @@ However, my opinion towards certifications is best explained by this picture (bo
 
 ## Creed
 
-Since i couldn't put my work ethics/beliefs to better words, i am _borrowing_ most of [Automattic's creed](https://automattic.com) here:
+Since i couldn't put my work ethics/beliefs to better words, i am _borrowing_ [Automattic's creed](https://automattic.com) here:
 
 [THE AUTOMATTIC CREED](https://automattic.com/creed/)
 
@@ -96,7 +96,7 @@ And a personal addition:
 
 ## Get In Contact
 
-Besides this blog (that i update maybe once a year) you can also find (stalk) or contact me here:
+Besides this blog, which i update maybe once a year, you can also find, stalk or contact me here:
 
 - [LinkedIn](https://linkedin.totter.pw)
 - [Github](https://github.com/brain246)
