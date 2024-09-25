@@ -15,7 +15,7 @@ I am Thomas and currently occupied as an (Azure) data engineer at [Capgemini Aus
 Not very surprisingly, my main focus is on all things data. More specifically, that currently means:
 
 - Databricks, Spark & Delta
-- Delta Live Tables & Spark Structured Streaming
+- Delta Live Tables, Spark Structured Streaming, Eventhubs & Kafka
 - Data Explorer/Kusto
 - Fabric
 - Azure Data Factory
@@ -27,7 +27,7 @@ And not so currently, meaning in the recent past, i saw a lot of:
 - SQL-Server Warehouse(s)
 - Restful APIs & GraphQL
 
-After 18 years of classical data warehousing, i finally got to dive into the data lake (-house), which i won't leave anytime soon it seems.
+After 18 years of classical data warehousing, i finally got to dive into the data lake (-house), which i won't leave anytime soon.
 
 Besides signing the [DataOps Manifesto](https://dataopsmanifesto.org/), i am also a supporter of the "treat data as a product" movement.
 
@@ -35,13 +35,13 @@ Besides signing the [DataOps Manifesto](https://dataopsmanifesto.org/), i am als
 
 Since one of my main treats is laziness (when it comes to repetitive tasks), i developed a natural interest in DevOps & automation. And due to constant lack of sleep, I usually don't touch any code, unless it's version controlled. That includes but is not limited to: cloud infrastructure (as code), database schemas, pipeline definitions, all kinds of scripts, notebooks and the grocery list for my next shopping tour.
 
-As a result of the above, i somehow stumbled into the beautiful world of DevOps (although that name was not a thing back then). My personal project lifecycle these days often goes looks like this: Getting hired as an architect/data enginner at first, but then silently turning into the dedicated DevOps and Git guy. Although it was never my intention, i think i got the DevOps bingo card full now:
+As a result of the above, i somehow stumbled into the beautiful world of DevOps (although that name was not a thing back then). My personal project lifecycle these days often looks like this: Getting hired as an architect/data enginner at first, but then silently tarnsitioning into the dedicated DevOps and Git guy. My DevOps bingo card includes:
 
 - Azure DevOps (Repos, Boards, Pipelines, etc.)
 - The Atlassian(s): Bitbucket, Jira, Confluence (and even Bamboo...).
 - Github (my teenage love)
 - Gitlab
-- And if artefact registries also belong on this list: Cloudsmith
+- And if artefact registries also belong here: Cloudsmith
 
 However, there can be only one god. And for me that is and always will be: __Git__[^git]. After using it for almost a decade, i still feel like i don't know half of it and am constantly amazed how limitless the possibilities of this genius piece of software really are.
 
@@ -49,9 +49,9 @@ However, there can be only one god. And for me that is and always will be: __Git
 
 Since __DevOps and automation__ usually require some sort of scripting, i found myself dealing with the usual (scripting) suspects: Powershell, Bash, Python (and for fun and good looks also: Fish).
 
-Regarding __data manipulation & transformation__ i am most experienced in T-SQL, due to spending many years implementing SQL warehouses. Switching to Python felt a bit odd at first, but today there is no doubt it in my mind: The added value one gets (for free) from the whole Python software engineering eco-system (formatting, linting, automated testing, packaging, ...) cannot be missed out on. Implementing data projects in Python almost starts to feel like 'real' software development these days.
+Regarding __data manipulation & transformation__ i am most experienced in T-SQL, due to spending many years implementing SQL-Server warehouses. Switching to Python felt a bit odd at first, but today there is no doubt it in my mind: The added value one gets (for free) from the whole Python software engineering eco-system (formatting, linting, automated testing, packaging, ...) cannot be missed out on. Implementing data projects in Python almost starts to feel like 'real' software development these days.
 
-Also, a life without (Jupyter) notebooks might be possible, but makes absolutely no sense to me anymore :smirk:.
+Also, a life without (Jupyter) notebooks might be possible, but makes absolutely no sense to me anymore :smirk:
 
 ## Professional Past
 
